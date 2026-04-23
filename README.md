@@ -30,11 +30,6 @@ netflix-data-analysis/
 - The United States has the highest content production  
 - Drama and Comedy are among the most common genres  
 
-## How to Run the Project
-1. Clone the repository  
-   git clone https://github.com/your-username/netflix-data-analysis.git  
-2. Navigate to the project folder  
-3. Open the notebook using Jupyter Notebook  
 
 ## Dataset
 The dataset includes information about Netflix movies and TV shows such as:
