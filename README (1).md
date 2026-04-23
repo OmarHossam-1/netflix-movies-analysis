@@ -9,20 +9,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Objectives](#objectives)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Key Analysis Steps](#key-analysis-steps)
-- [Visualizations](#visualizations)
-- [How to Run](#how-to-run)
-- [Insights](#insights)
-
----
-
 ## Overview
 
 With the rapid growth of streaming platforms, understanding content distribution, trends, and viewer preferences has become increasingly important. This project dives into Netflix's catalog to extract meaningful patterns using data cleaning, preprocessing, and visualization techniques.
@@ -117,7 +103,7 @@ netflix-eda/
 
 3. **Launch Jupyter Notebook**
    ```bash
-   jupyter notebook Netflix_(1).ipynb
+   jupyter notebook Netflix.ipynb
    ```
 
 4. Make sure `netflix1.csv` is in the same directory as the notebook.
